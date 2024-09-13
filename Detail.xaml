@@ -1,0 +1,75 @@
+﻿<Window x:Name="DetailWindow" x:Class="LogReader.Detail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LogReader"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        AllowsTransparency="true"
+        ResizeMode="CanResize">
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="DarkCyan" Offset="0"/>
+            <GradientStop Color="DarkCyan" Offset="0.1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="30"/>
+    </WindowChrome.WindowChrome>
+
+    <DockPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+
+        <Grid x:Name="WindowTop_Grid" Height="40" HorizontalAlignment="Stretch" VerticalAlignment="Top" DockPanel.Dock="Top">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Header" Grid.ColumnSpan="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="24" FontFamily="Arial" Foreground="Black"/>
+            <Button Background="Transparent" WindowChrome.IsHitTestVisibleInChrome="True" x:Name="MainWindowMinimieren_Btn" HorizontalAlignment="Right" Margin="0,7.5,58,0" VerticalAlignment="Center" Height="22" Width="22" Grid.Row="0" Grid.Column="1" BorderBrush="White" FontWeight="Bold" FontFamily="Arial" FontSize="15" Click="MainWindowMinimieren_Btn_Click" VerticalContentAlignment="Center">
+                <Image Source="Images/minimieren.png"/>
+            </Button>
+            <Button Background="Transparent" WindowChrome.IsHitTestVisibleInChrome="True" x:Name="MainWindowMinMax_Btn" HorizontalAlignment="Right" Margin="0,7.5,33,0" VerticalAlignment="Center" Height="22" Width="22" Grid.Row="0" Grid.Column="1" BorderBrush="White" FontWeight="Bold" FontFamily="Arial" FontSize="15" Click="MainWindowMinMax_Btn_Click" VerticalContentAlignment="Center">
+                <Image Source="Images/fullscreen.png"/>
+            </Button>
+            <Button Background="Transparent" WindowChrome.IsHitTestVisibleInChrome="True" x:Name="MainWindowSchließen_Btn" HorizontalAlignment="Right" Margin="0,7.5,8,0" VerticalAlignment="Center" Height="22" Width="22" Grid.Row="0" Grid.Column="1" BorderBrush="White" FontWeight="Bold" FontFamily="Arial" FontSize="15" Click="MainWindowSchließen_Btn_Click" VerticalContentAlignment="Center">
+                <Image Source="Images/schließen.png"/>
+            </Button>
+
+        </Grid>
+
+        <DockPanel Grid.IsSharedSizeScope="False">
+
+            <Grid x:Name="NavigationTop_Grid" Background="Black"  Height="50" DockPanel.Dock="Top">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                    <ColumnDefinition Width="100*" SharedSizeGroup="Spalte1"/>
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="Datum_lb" Content="Datum" Grid.ColumnSpan="1" Grid.Column="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsHitTestVisible="False" Panel.ZIndex="1"  FontSize="32" FontFamily="Arial" Foreground="White" />
+                <Label x:Name="Uhrzeit_lb" Content="Uhrzeit" Grid.ColumnSpan="2" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsHitTestVisible="False" Panel.ZIndex="1"  FontSize="32" FontFamily="Arial" Foreground="White" />
+                <Label x:Name="Laenge_lb" Content="Länge" Grid.ColumnSpan="2" Grid.Column="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsHitTestVisible="False" Panel.ZIndex="1"  FontSize="32" FontFamily="Arial" Foreground="White" />
+                <Label x:Name="Infos_lb" Content="Infos" Grid.ColumnSpan="3" Grid.Column="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsHitTestVisible="False" Panel.ZIndex="1"  FontSize="32" FontFamily="Arial" Foreground="White" />
+
+            </Grid>
+
+            <Grid x:Name="Detail1_Grid" DockPanel.Dock="Top"/>
+
+            <Grid x:Name="Detail2_Grid" DockPanel.Dock="Top"/>
+
+        </DockPanel>
+
+    </DockPanel>
+</Window>
