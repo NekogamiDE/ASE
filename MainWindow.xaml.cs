@@ -50,11 +50,8 @@ namespace LogReader
         private bool autoreader = false;
         
         private string logdatum = "";
-
         private string filepath = "";
-
         private string self_name = "";
-
         private string cur_user = ""; //weiß noch nicht -> würde über den game_log ausgelesen
 
         private List<string> log = new List<string>();
@@ -342,39 +339,45 @@ namespace LogReader
 
         private bool CheckForLogUpdate()
         {
-            string temp_logdatum = File.GetLastWriteTime(filepath).ToString();
+            if (File.Exists(filepath))
+            {
+                string temp_logdatum = File.GetLastWriteTime(filepath).ToString();
 
-            if (temp_logdatum != logdatum)
-                return true;
+                if (temp_logdatum != logdatum)
+                    return true;
+            }
 
             return false;
         }
 
         private void Einlesen()
         {
-            int cur_line = -1;
-            logdatum = File.GetLastWriteTime(filepath).ToString();
-
-            using (StreamReader reader = new StreamReader(filepath, Encoding.Default))
+            if (File.Exists(filepath))
             {
-                while (!reader.EndOfStream)
+                int cur_line = -1;
+                logdatum = File.GetLastWriteTime(filepath).ToString();
+
+                using (StreamReader reader = new StreamReader(filepath, Encoding.Default))
                 {
-                    cur_line++;
-
-                    if (cur_line > akt_zeile)
+                    while (!reader.EndOfStream)
                     {
-                        string zeile = reader.ReadLine();
+                        cur_line++;
 
-                        gesamtzeilen += 1;
+                        if (cur_line > akt_zeile)
+                        {
+                            string zeile = reader.ReadLine();
 
-                        zeile = zeile.Replace(" ", "");
-                        zeile = zeile.Replace("\t", "");
+                            gesamtzeilen += 1;
 
-                        log.Add(zeile);
-                    }
-                    else
-                    {
-                        reader.ReadLine();
+                            zeile = zeile.Replace(" ", "");
+                            zeile = zeile.Replace("\t", "");
+
+                            log.Add(zeile);
+                        }
+                        else
+                        {
+                            reader.ReadLine();
+                        }
                     }
                 }
             }
@@ -759,9 +762,7 @@ namespace LogReader
 
                             for(int s = 0; s < temp.Count; s++)
                             {
-
-
-
+                                //muss noch implementiert werden.
                             }
 
                             new_avg.AddPTS(0);
@@ -789,8 +790,7 @@ namespace LogReader
                 //for gesamtspieler, die gelistet sind
                 if (round.GetPlayer(i).GetTypName() == self_name)
                 {
-
-
+                    //muss noch implementiert werden.
                 }
             }
 
