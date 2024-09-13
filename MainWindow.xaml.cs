@@ -292,7 +292,7 @@ namespace LogReader
             aTimer.Interval = 6000;
             aTimer.Elapsed += OnTimedEvent;
             aTimer.AutoReset = true;
-            aTimer.Enabled = true;
+            aTimer.Enabled = false;
 
             return;
         }
