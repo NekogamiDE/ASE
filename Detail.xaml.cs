@@ -16,9 +16,6 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace LogReader
 {
-    /// <summary>
-    /// Interaktionslogik für Detail.xaml
-    /// </summary>
     public partial class Detail : Window
     {
         public Detail(Runde m, string self_name)
@@ -352,23 +349,6 @@ namespace LogReader
                 Grid.SetColumn(TempStatD, 6);
                 Detail2_Grid.Children.Add(TempStatD);
                 #endregion
-
-                //else
-                //{
-                //    TextBlock NoName = new TextBlock
-                //    {
-                //        HorizontalAlignment = HorizontalAlignment.Center,
-                //        VerticalAlignment = VerticalAlignment.Center,
-                //        IsHitTestVisible = false,
-                //        Text = "None"
-                //    };
-
-                //    Grid.SetRow(NoName, 0);
-                //    Grid.SetColumn(NoName, 0);
-                //    Detail_Grid.Children.Add(NoName);
-                //}
-
-                //zusatz
             }
 
             return;
