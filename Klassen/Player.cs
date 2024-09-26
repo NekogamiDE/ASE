@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,15 @@ namespace LogReader
         private List<Statistik> cur_rundenstats;
         //private Statistik overall;
         //private List<Anderes> anderes;
+        private double damageDealGeneral;
+        private double damageDealImportant;
 
+        private double damageTakeGeneral;
+        private double damageTakeImportant;
+
+        private int kills;
+        private int deaths;
+        
         public Player(string id, string name, int team)
         {
             this.id = id;
@@ -83,6 +92,60 @@ namespace LogReader
         {
             return this.cur_rundenstats;
         }
+        public void BerechneStatistik()
+        {
+            this.damageDealGeneral = 0;
+            this.damageDealImportant = 0;
+
+            this.damageTakeGeneral = 0;
+            this.damageTakeImportant = 0;
+
+            this.kills = 0;
+            this.deaths = 0;
+
+            foreach (Statistik s in cur_rundenstats)
+            {
+                string[] tempDeal = s.GetDealAusgabe().Split('/');
+                this.damageDealGeneral += Convert.ToDouble(tempDeal[0]) + Convert.ToDouble(tempDeal[1]);
+                this.damageDealImportant += Convert.ToDouble(tempDeal[1]);
+
+                string[] temptake = s.GetTakeAusgabe().Split('/');
+
+                this.damageTakeGeneral += Convert.ToDouble(temptake[0]) + Convert.ToDouble(temptake[1]);
+                this.damageTakeImportant += Convert.ToDouble(temptake[1]);
+
+                this.kills += s.GetK();
+                this.deaths += s.GetD();
+            }
+        }
+        
+        public double GetDamageDealGeneral()
+        {
+            return this.damageDealGeneral;
+        }
+        public double GetDamageDealImportant()
+        {
+            return this.damageDealImportant;
+        }
+        public double GetDamageTakeGeneral()
+        {
+            return this.damageTakeGeneral;
+        }
+        public double GetDamageTakeImportant()
+        {
+            return this.damageTakeImportant;
+        }
+        public int GetKills()
+        {
+            return this.kills;
+        }
+        public int GetDeaths()
+        {
+            return this.deaths;
+        }
+
+
+
         /*
         public Statistik AddOverall()
         {

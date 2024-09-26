@@ -312,32 +312,6 @@ namespace LogReader
                         }
                     }
 
-
-                    double damageDealGeneral = 0;
-                    double damageDealImportant = 0;
-
-                    double damageTakeGeneral = 0;
-                    double damageTakeImportant = 0;
-
-                    int kills = 0;
-                    int deaths = 0;
-
-                    //Bei Player Als Funktion ermöglichen
-                    foreach (Statistik s in parser.GetRunde(index).GetPlayer(i).GetAllRundenstats())
-                    {
-                        string[] tempDeal = s.GetDealAusgabe().Split('/');
-                        damageDealGeneral += Convert.ToDouble(tempDeal[0]) + Convert.ToDouble(tempDeal[1]);
-                        damageDealImportant += Convert.ToDouble(tempDeal[1]);
-
-                        string[] temptake = s.GetTakeAusgabe().Split('/');
-
-                        damageTakeGeneral += Convert.ToDouble(temptake[0]) + Convert.ToDouble(temptake[1]);
-                        damageTakeImportant += Convert.ToDouble(temptake[1]);
-
-                        kills += s.GetK();
-                        deaths += s.GetD();
-                    }
-
                     Label DG = new Label
                     {
                         Height = 44,
@@ -348,7 +322,7 @@ namespace LogReader
                         BorderBrush = new SolidColorBrush(Colors.BurlyWood),
                         BorderThickness = new Thickness(0, 1, 0, 1),
                         IsHitTestVisible = false,
-                        Content = Convert.ToInt32(damageDealGeneral).ToString(),
+                        Content = Convert.ToInt32(parser.GetRunde(index).GetPlayer(i).GetDamageDealGeneral()).ToString(),
                         FontFamily = new FontFamily("Arial"),
                         FontSize = 24
                     };
@@ -367,7 +341,7 @@ namespace LogReader
                         BorderBrush = new SolidColorBrush(Colors.BurlyWood),
                         BorderThickness = new Thickness(0, 1, 0, 1),
                         IsHitTestVisible = false,
-                        Content = Convert.ToInt32(damageTakeGeneral).ToString(),
+                        Content = Convert.ToInt32(parser.GetRunde(index).GetPlayer(i).GetDamageTakeGeneral()).ToString(),
                         FontFamily = new FontFamily("Arial"),
                         FontSize = 24
                     };
