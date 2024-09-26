@@ -16,9 +16,6 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace LogReader
 {
-    /// <summary>
-    /// Interaktionslogik für Detail.xaml
-    /// </summary>
     public partial class Detail : Window
     {
         public Detail(Runde m, string self_name)
@@ -243,37 +240,12 @@ namespace LogReader
 
                 #region Stat
 
-                double damageDealGeneral = 0;
-                double damageDealImportant = 0;
-
-                double damageTakeGeneral = 0;
-                double damageTakeImportant = 0;
-
-                int kills = 0;
-                int deaths = 0;
-
-                //Bei Player Als Funktion ermöglichen
-                foreach (Statistik s in m.GetPlayer(i).GetAllRundenstats())
-                {
-                    string[] tempDeal = s.GetDealAusgabe().Split('/');
-                    damageDealGeneral += Convert.ToDouble(tempDeal[0]) + Convert.ToDouble(tempDeal[1]);
-                    damageDealImportant += Convert.ToDouble(tempDeal[1]);
-
-                    string[] temptake = s.GetTakeAusgabe().Split('/');
-
-                    damageTakeGeneral += Convert.ToDouble(temptake[0]) + Convert.ToDouble(temptake[1]);
-                    damageTakeImportant += Convert.ToDouble(temptake[1]);
-
-                    kills += s.GetK();
-                    deaths += s.GetD();
-                }
-
                 TextBlock TempStatDDG = new TextBlock
                 {
                     HorizontalAlignment = HorizontalAlignment.Center,
                     VerticalAlignment = VerticalAlignment.Center,
                     IsHitTestVisible = false,
-                    Text = damageDealGeneral.ToString(),
+                    Text = m.GetPlayer(i).GetDamageDealGeneral().ToString(),
                     FontFamily = new FontFamily("Arial"),
                     FontSize = 24
                 };
@@ -287,7 +259,7 @@ namespace LogReader
                     HorizontalAlignment = HorizontalAlignment.Center,
                     VerticalAlignment = VerticalAlignment.Center,
                     IsHitTestVisible = false,
-                    Text = damageDealImportant.ToString(),
+                    Text = m.GetPlayer(i).GetDamageDealImportant().ToString(),
                     FontFamily = new FontFamily("Arial"),
                     FontSize = 24
                 };
@@ -301,7 +273,7 @@ namespace LogReader
                     HorizontalAlignment = HorizontalAlignment.Center,
                     VerticalAlignment = VerticalAlignment.Center,
                     IsHitTestVisible = false,
-                    Text = damageTakeGeneral.ToString(),
+                    Text = m.GetPlayer(i).GetDamageTakeGeneral().ToString(),
                     FontFamily = new FontFamily("Arial"),
                     FontSize = 24
                 };
@@ -315,7 +287,7 @@ namespace LogReader
                     HorizontalAlignment = HorizontalAlignment.Center,
                     VerticalAlignment = VerticalAlignment.Center,
                     IsHitTestVisible = false,
-                    Text = damageTakeImportant.ToString(),
+                    Text = m.GetPlayer(i).GetDamageTakeImportant().ToString(),
                     FontFamily = new FontFamily("Arial"),
                     FontSize = 24
                 };
@@ -329,7 +301,7 @@ namespace LogReader
                     HorizontalAlignment = HorizontalAlignment.Center,
                     VerticalAlignment = VerticalAlignment.Center,
                     IsHitTestVisible = false,
-                    Text = kills.ToString(),
+                    Text = m.GetPlayer(i).GetKills().ToString(),
                     FontFamily = new FontFamily("Arial"),
                     FontSize = 24
                 };
@@ -343,7 +315,7 @@ namespace LogReader
                     HorizontalAlignment = HorizontalAlignment.Center,
                     VerticalAlignment = VerticalAlignment.Center,
                     IsHitTestVisible = false,
-                    Text = deaths.ToString(),
+                    Text = m.GetPlayer(i).GetDeaths().ToString(),
                     FontFamily = new FontFamily("Arial"),
                     FontSize = 24
                 };
@@ -352,23 +324,6 @@ namespace LogReader
                 Grid.SetColumn(TempStatD, 6);
                 Detail2_Grid.Children.Add(TempStatD);
                 #endregion
-
-                //else
-                //{
-                //    TextBlock NoName = new TextBlock
-                //    {
-                //        HorizontalAlignment = HorizontalAlignment.Center,
-                //        VerticalAlignment = VerticalAlignment.Center,
-                //        IsHitTestVisible = false,
-                //        Text = "None"
-                //    };
-
-                //    Grid.SetRow(NoName, 0);
-                //    Grid.SetColumn(NoName, 0);
-                //    Detail_Grid.Children.Add(NoName);
-                //}
-
-                //zusatz
             }
 
             return;

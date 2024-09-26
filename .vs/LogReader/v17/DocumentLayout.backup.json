@@ -1,50 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\",
+  "WorkspaceRootPath": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|c:\\dingens kirchens\\visuelle studio kodierung\\logreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\klassen\\damagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\damagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|c:\\users\\huter\\documents\\github\\ase\\klassen\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\klassen\\statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\klassen\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|c:\\dingens kirchens\\visuelle studio kodierung\\logreader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|c:\\users\\huter\\documents\\github\\ase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\detail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\detail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:detail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|c:\\dingens kirchens\\visuelle studio kodierung\\logreader\\detail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:detail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\klassen\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\klassen\\runde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\runde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\klassen\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\klassen\\runde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\runde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\klassen\\damagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\damagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\klassen\\statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\klassen\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\klassen\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\klassen\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:klassen\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|C:\\Users\\huter\\Documents\\GitHub\\ASE\\detail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D52D8F0B-2986-4128-9863-184DB8FE3F5F}|LogReader.csproj|solutionrelative:detail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,123 +58,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 173,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Detail.xaml",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Detail.xaml",
-              "RelativeDocumentMoniker": "Detail.xaml",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Detail.xaml",
-              "RelativeToolTip": "Detail.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-30T11:20:27.154Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Parser.cs",
+              "RelativeDocumentMoniker": "Klassen\\Parser.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Parser.cs",
+              "RelativeToolTip": "Klassen\\Parser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:42:09.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Detail.xaml.cs",
+              "RelativeDocumentMoniker": "Detail.xaml.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Detail.xaml.cs",
+              "RelativeToolTip": "Detail.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:34:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Config.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Config.cs",
               "RelativeDocumentMoniker": "Klassen\\Config.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Config.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Config.cs",
               "RelativeToolTip": "Klassen\\Config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T11:19:56.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T11:19:56.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DamageType.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\DamageType.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\DamageType.cs",
               "RelativeDocumentMoniker": "Klassen\\DamageType.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\DamageType.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\DamageType.cs",
               "RelativeToolTip": "Klassen\\DamageType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T08:26:04.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T08:26:04.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAIYCAAAAAAAAAAAawDEEAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-15T07:43:37.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Translate.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Translate.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Translate.cs",
               "RelativeDocumentMoniker": "Klassen\\Translate.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Translate.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Translate.cs",
               "RelativeToolTip": "Klassen\\Translate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T12:57:21.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:42:31.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T09:42:31.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Player.cs",
               "RelativeDocumentMoniker": "Klassen\\Player.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Player.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Player.cs",
               "RelativeToolTip": "Klassen\\Player.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-29T13:03:17.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-29T13:03:17.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Runde.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Runde.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Runde.cs",
               "RelativeDocumentMoniker": "Klassen\\Runde.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Runde.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Runde.cs",
               "RelativeToolTip": "Klassen\\Runde.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAMwGoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-25T12:48:15.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-25T12:48:15.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Statistik.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Statistik.cs",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Statistik.cs",
               "RelativeDocumentMoniker": "Klassen\\Statistik.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Klassen\\Statistik.cs",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Klassen\\Statistik.cs",
               "RelativeToolTip": "Klassen\\Statistik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-15T09:55:02.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-15T09:55:02.676Z"
             }
           ]
         }
@@ -180,12 +194,12 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "c54be4c0-ad4b-463c-acb9-a168c76ab748",
+        "Id": "c45543f0-bacb-455c-ba96-f4549895e6b5",
         "Display": 0,
-        "X": 240,
-        "Y": -69,
-        "Width": 1605,
-        "Height": 778,
+        "X": 113,
+        "Y": 260,
+        "Width": 1578,
+        "Height": 788,
         "WindowState": 0
       },
       "DocumentGroups": [
@@ -195,28 +209,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-30T11:20:24.24Z",
+              "WhenOpened": "2024-09-14T14:11:04.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Detail.xaml.cs",
-              "DocumentMoniker": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Detail.xaml.cs",
-              "RelativeDocumentMoniker": "Detail.xaml.cs",
-              "ToolTip": "C:\\Dingens Kirchens\\Visuelle Studio Kodierung\\LogReader\\Detail.xaml.cs",
-              "RelativeToolTip": "Detail.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-15T07:43:37.791Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "Detail.xaml",
+              "DocumentMoniker": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Detail.xaml",
+              "RelativeDocumentMoniker": "Detail.xaml",
+              "ToolTip": "C:\\Users\\huter\\Documents\\GitHub\\ASE\\Detail.xaml",
+              "RelativeToolTip": "Detail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T11:20:27.154Z"
             }
           ]
         }
