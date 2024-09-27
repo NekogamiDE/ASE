@@ -75,12 +75,10 @@
     </Compile>
     <Compile Include="Klassen\Config.cs" />
     <Compile Include="Klassen\DamageType.cs" />
-    <Compile Include="Klassen\Local.cs" />
     <Compile Include="Klassen\Parser.cs" />
     <Compile Include="Klassen\Runde.cs" />
     <Compile Include="Klassen\Session.cs" />
     <Compile Include="Klassen\Statistik.cs" />
-    <Compile Include="Klassen\TR.cs" />
     <Compile Include="Klassen\Translate.cs" />
     <Compile Include="Klassen\Player.cs" />
     <Compile Include="MainWindow.xaml.cs">

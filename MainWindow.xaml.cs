@@ -32,7 +32,8 @@ namespace LogReader
 {
     public partial class MainWindow : Window
     {
-        Parser parser = new Parser();
+        private Parser parser = new Parser();
+        private Session session = new Session();
         private List<int> liste_d = new List<int>(); //offene detailansichten
         private int index = -1;
         private List<int> selection = new List<int>();
@@ -42,8 +43,6 @@ namespace LogReader
             InitializeComponent();
 
             this.Tag = "Main";
-
-            Session session = new Session();
 
             Liste_Grid.HorizontalAlignment = HorizontalAlignment.Stretch;
             Liste_Grid.VerticalAlignment = VerticalAlignment.Top;
@@ -69,7 +68,7 @@ namespace LogReader
             Liste_Grid.ColumnDefinitions.Add(column5);
             Liste_Grid.ColumnDefinitions.Add(column6);
 
-            if(parser.NeuerLog())
+            if (parser.NeuerLog())
             {
                 ListeNeuErstellen();
             }
@@ -94,7 +93,6 @@ namespace LogReader
                 }
             }
         }//Für alle Buttons in der Motorenliste.
-        
 
         private void ListeLoeschen()
         {
