@@ -98,7 +98,8 @@ namespace LogReader
 
             string[] score = zeile.Split(',');
 
-            r.GetPlayer(Convert.ToInt32(score[0].Remove(0, 7))).GetLastRundenstat().AddPTS(Convert.ToInt32(score[2].Remove(0, 4)));
+            int temp = Convert.ToInt32(score[2].Remove(0, 4));
+            r.GetPlayer(Convert.ToInt32(score[0].Remove(0, 7))).GetLastRundenstat().AddPTS(temp);
         }
     }
     public class Parser_Stripe
@@ -205,6 +206,8 @@ namespace LogReader
             for (int i = 0; i < r.CountPlayer(); i++)
             {
                 //r.GetPlayer(i).AddOverall();
+
+                r.GetPlayer(i).BerechneStatistik();
 
                 r.GetPlayer(i).AddPMatches();
 
@@ -456,30 +459,33 @@ namespace LogReader
                 akt_zeile += 1;
                 string temphead = log[akt_zeile];
 
-                if (temphead.IndexOf("BestOf3") != -1) //Start
+                if (temphead.IndexOf("BestOf3") != -1/* && temphead.IndexOf("startinglevel") == -1*/) //Start
                 {
-                    Runde runde = new Runde(logdatum, temphead.Substring(0, temphead.IndexOf("|")).Remove(5), temphead.Substring((temphead.IndexOf("'") + 13), temphead.LastIndexOf("'") - (temphead.IndexOf("'") + 13)), "CW");
+                    /*
+                    string map = temphead.Remove(0, temphead.IndexOf("map"));
+                    map = map.Substring(map.IndexOf("'") + 1, map.LastIndexOf("'") - (map.IndexOf("'") + 1));
+                    Runde runde = new Runde(logdatum, temphead.Substring(0, temphead.IndexOf("|")).Remove(5), map, "CW");
+                    */
+                    Runde runde = new Runde(logdatum, temphead.Substring(0, temphead.IndexOf("|")).Remove(5), temphead.Substring((temphead.IndexOf("'") + 13), temphead.LastIndexOf("'") - (temphead.IndexOf("'") + 13)), "CW"); //=> Alte Logs
 
                     //Laufparams
                     while (akt_zeile < gesamtzeilen - 1)
                     {
                         akt_zeile += 1;
                         string temp = log[akt_zeile];
-
-                        temp = temp.Replace(" ", "");
-                        temp = temp.Replace("\t", "");
-
                         string timestamp = temp;
-                        timestamp = timestamp.Remove(temp.IndexOf("|"));
-                        temp = temp.Remove(0, temp.IndexOf("|") + 1);
 
                         if (temp.IndexOf("startinglevel") != -1)
                         {
-                            break;
+                            break; //Spieler mittendrin rausgegangen => Daten werden verworfen
                         }
                         else
                         {
-                            parser_StartRunde.StartRunde();
+                            if (temp != "")
+                            {
+                                timestamp = timestamp.Remove(temp.IndexOf("|"));
+                                temp = temp.Remove(0, temp.IndexOf("|") + 1);
+                            }
                         }
 
                         //anweisung

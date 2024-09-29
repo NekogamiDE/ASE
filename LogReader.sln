@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader", "LogReader.csproj", "{D52D8F0B-2986-4128-9863-184DB8FE3F5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader_Test", "..\LogReader_Test\LogReader_Test.csproj", "{1B40239B-7CC5-43D5-A4C6-CDC71BB9E75C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D52D8F0B-2986-4128-9863-184DB8FE3F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D52D8F0B-2986-4128-9863-184DB8FE3F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D52D8F0B-2986-4128-9863-184DB8FE3F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B40239B-7CC5-43D5-A4C6-CDC71BB9E75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B40239B-7CC5-43D5-A4C6-CDC71BB9E75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B40239B-7CC5-43D5-A4C6-CDC71BB9E75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B40239B-7CC5-43D5-A4C6-CDC71BB9E75C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
