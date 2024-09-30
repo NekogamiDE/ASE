@@ -1,0 +1,162 @@
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Users\tihu\source\repos\LogReader\obj\Debug\MainWindow.g.cs
+C:\Users\tihu\source\repos\LogReader\obj\Debug\App.g.cs
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader_MarkupCompile.cache
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader_MarkupCompile.lref
+C:\Users\tihu\source\repos\LogReader\bin\Debug\LogReader.exe.config
+C:\Users\tihu\source\repos\LogReader\bin\Debug\LogReader.exe
+C:\Users\tihu\source\repos\LogReader\bin\Debug\LogReader.pdb
+C:\Users\tihu\source\repos\LogReader\obj\Debug\MainWindow.baml
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.g.resources
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.Properties.Resources.resources
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.exe
+C:\Users\tihu\source\repos\LogReader\obj\Debug\LogReader.pdb
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\Detail.g.cs
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\MainWindow.g.cs
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\App.g.cs
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader_MarkupCompile.cache
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader_MarkupCompile.lref
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.exe
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.pdb
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\bin\Debug\LogReader.exe.config
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\bin\Debug\LogReader.exe
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\bin\Debug\LogReader.pdb
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\MainWindow.baml
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\Detail.baml
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.g.resources
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.Properties.Resources.resources
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+D:\Anderes\LogReader\bin\Debug\LogReader.exe.config
+D:\Anderes\LogReader\bin\Debug\LogReader.exe
+D:\Anderes\LogReader\bin\Debug\LogReader.pdb
+D:\Anderes\LogReader\obj\Debug\LogReader.csproj.AssemblyReference.cache
+D:\Anderes\LogReader\obj\Debug\Detail.g.cs
+D:\Anderes\LogReader\obj\Debug\MainWindow.g.cs
+D:\Anderes\LogReader\obj\Debug\App.g.cs
+D:\Anderes\LogReader\obj\Debug\LogReader_MarkupCompile.cache
+D:\Anderes\LogReader\obj\Debug\LogReader_MarkupCompile.lref
+D:\Anderes\LogReader\obj\Debug\Detail.baml
+D:\Anderes\LogReader\obj\Debug\MainWindow.baml
+D:\Anderes\LogReader\obj\Debug\LogReader.g.resources
+D:\Anderes\LogReader\obj\Debug\LogReader.Properties.Resources.resources
+D:\Anderes\LogReader\obj\Debug\LogReader.csproj.GenerateResource.cache
+D:\Anderes\LogReader\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+D:\Anderes\LogReader\obj\Debug\LogReader.exe
+D:\Anderes\LogReader\obj\Debug\LogReader.pdb
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\bin\Debug\HtmlAgilityPack.dll
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\bin\Debug\HtmlAgilityPack.pdb
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\bin\Debug\HtmlAgilityPack.xml
+D:\Anderes\LogReader\bin\Debug\HtmlAgilityPack.dll
+D:\Anderes\LogReader\bin\Debug\HtmlAgilityPack.pdb
+D:\Anderes\LogReader\bin\Debug\HtmlAgilityPack.xml
+D:\Anderes\LogReader\obj\Debug\LogReader.csproj.CopyComplete
+C:\Dingens Kirchens\Visuelle Studio Kodierung\LogReader\obj\Debug\LogReader.csproj.Up2Date
+C:\Dingens Kirchens\VS2022\LogReader\bin\Debug\LogReader.exe.config
+C:\Dingens Kirchens\VS2022\LogReader\bin\Debug\LogReader.exe
+C:\Dingens Kirchens\VS2022\LogReader\bin\Debug\LogReader.pdb
+C:\Dingens Kirchens\VS2022\LogReader\bin\Debug\HtmlAgilityPack.dll
+C:\Dingens Kirchens\VS2022\LogReader\bin\Debug\HtmlAgilityPack.pdb
+C:\Dingens Kirchens\VS2022\LogReader\bin\Debug\HtmlAgilityPack.xml
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\Detail.g.cs
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\MainWindow.g.cs
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\App.g.cs
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader_MarkupCompile.cache
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader_MarkupCompile.lref
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\Detail.baml
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\MainWindow.baml
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.g.resources
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.Properties.Resources.resources
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.exe
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.pdb
+C:\Dingens Kirchens\VS2022\LogReader\obj\Debug\LogReader.csproj.Up2Date
+C:\Users\huter\Documents\GitHub\ASE\bin\Debug\LogReader.exe.config
+C:\Users\huter\Documents\GitHub\ASE\bin\Debug\LogReader.exe
+C:\Users\huter\Documents\GitHub\ASE\bin\Debug\LogReader.pdb
+C:\Users\huter\Documents\GitHub\ASE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\huter\Documents\GitHub\ASE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\huter\Documents\GitHub\ASE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\Detail.g.cs
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\MainWindow.g.cs
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\App.g.cs
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader_MarkupCompile.cache
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader_MarkupCompile.lref
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\Detail.baml
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\MainWindow.baml
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.g.resources
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.Properties.Resources.resources
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.csproj.Up2Date
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.exe
+C:\Users\huter\Documents\GitHub\ASE\obj\Debug\LogReader.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\bin\Debug\LogReader.exe.config
+C:\Users\tihu\Documents\GitHub\ASE\ASE\bin\Debug\LogReader.exe
+C:\Users\tihu\Documents\GitHub\ASE\ASE\bin\Debug\LogReader.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tihu\Documents\GitHub\ASE\ASE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\Detail.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\MainWindow.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\App.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader_MarkupCompile.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader_MarkupCompile.lref
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\Detail.baml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\MainWindow.baml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.g.resources
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.Properties.Resources.resources
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.csproj.Up2Date
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.exe
+C:\Users\tihu\Documents\GitHub\ASE\ASE\obj\Debug\LogReader.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\bin\Debug\LogReader.exe.config
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\bin\Debug\LogReader.exe
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\bin\Debug\LogReader.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\Detail.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\MainWindow.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\App.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader_MarkupCompile.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader_MarkupCompile.lref
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\Detail.baml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\MainWindow.baml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.g.resources
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.Properties.Resources.resources
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.csproj.Up2Date
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.exe
+C:\Users\tihu\Documents\GitHub\ASE\ASE\ASE\obj\Debug\LogReader.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\bin\Debug\LogReader.exe.config
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\bin\Debug\LogReader.exe
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\bin\Debug\LogReader.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.csproj.AssemblyReference.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\Detail.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\MainWindow.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\App.g.cs
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader_MarkupCompile.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader_MarkupCompile.lref
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\Detail.baml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\MainWindow.baml
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.g.resources
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.Properties.Resources.resources
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.csproj.GenerateResource.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.csproj.Up2Date
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.exe
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader\obj\Debug\LogReader.pdb
