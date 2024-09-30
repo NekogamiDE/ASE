@@ -1,4 +1,5 @@
 using System.Numerics;
+using System.Reflection.Metadata;
 using LogReader;
 
 namespace LogReader_Test
@@ -21,7 +22,7 @@ namespace LogReader_Test
             //act (noch beim Einlesen)
             zeile = zeile.Replace(" ", "");
             zeile = zeile.Replace("\t", "");
-
+        
             //act
             zeile = zeile.Remove(0, 6);
 

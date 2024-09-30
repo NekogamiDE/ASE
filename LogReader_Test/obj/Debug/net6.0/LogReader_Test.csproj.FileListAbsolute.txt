@@ -349,3 +349,4 @@ C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader_Test\obj\Debug\net6.0\refint\Lo
 C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader_Test\obj\Debug\net6.0\LogReader_Test.pdb
 C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader_Test\obj\Debug\net6.0\LogReader_Test.genruntimeconfig.cache
 C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader_Test\obj\Debug\net6.0\ref\LogReader_Test.dll
+C:\Users\tihu\Documents\GitHub\ASE\ASE\LogReader_Test\obj\Debug\net6.0\LogReader_Test.sourcelink.json

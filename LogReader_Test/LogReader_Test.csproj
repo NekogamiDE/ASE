@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ASE\LogReader.csproj" />
+    <ProjectReference Include="..\LogReader\LogReader.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogReader_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfeff34af44a2674514d8fee672f4edd26a9d9c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogReader_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogReader_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

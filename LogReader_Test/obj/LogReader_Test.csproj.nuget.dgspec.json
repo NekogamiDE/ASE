@@ -4,11 +4,11 @@
     "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\LogReader_Test\\LogReader_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\ASE\\LogReader.csproj": {
+    "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\LogReader\\LogReader.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\ASE\\LogReader.csproj",
+        "projectUniqueName": "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\LogReader\\LogReader.csproj",
         "projectName": "LogReader",
-        "projectPath": "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\ASE\\LogReader.csproj",
+        "projectPath": "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\LogReader\\LogReader.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -47,8 +47,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\ASE\\LogReader.csproj": {
-                "projectPath": "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\ASE\\LogReader.csproj"
+              "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\LogReader\\LogReader.csproj": {
+                "projectPath": "C:\\Users\\tihu\\Documents\\GitHub\\ASE\\ASE\\LogReader\\LogReader.csproj"
               }
             }
           }
